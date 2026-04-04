@@ -32,7 +32,6 @@ The model analyzes transaction patterns and predicts whether a transaction is **
 ---
 
 ## 📂 Project Structure
-
 UPI_Fraud_Detection/
 │── data/ # Dataset files
 │── notebooks/ # Jupyter notebooks
