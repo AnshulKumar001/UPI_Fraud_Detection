@@ -1,6 +1,6 @@
 # 💳 UPI Fraud Detection System
 
-🚀 A Machine Learning-based project to detect fraudulent UPI transactions using data analysis and predictive modeling.
+A Machine Learning-based project to detect fraudulent UPI transactions using data analysis and predictive modeling.
 
 ---
 
